@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/solon-santos-dev">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=solon-santos-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solon-santos-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=solon-santos-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solon-santos-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div
 <h3><strong>Principais Tecnologias:<strong<<h3>
 <div style="display: inline_block">
