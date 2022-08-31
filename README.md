@@ -1,9 +1,10 @@
 ## Eaai, eu sou o Solon Santos! Vem me conhecer um pouco mais...
 
 •💻Desenvolvedor de Software
+
 •🎓Estudando Análise e Desenvolvimento de Sistemas
+
 •🌱Em constante aprendizado
-☺Pronomes: Ele/dele
 
 <div align="center">
   <a href="https://github.com/solon-santos-dev">
