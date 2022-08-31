@@ -1,11 +1,8 @@
 ## Eaai, eu sou o Solon Santos! Vem me conhecer um pouco mais...
 
-💻Desenvolvedor de Software / Aprendendo no momento as tecnologias: HTML, CSS, JavaScript, MySQL (Banco de Dados)
-
-👨‍🎓Estudando Análise e Desenvolvimento de Sistemas
-
-❤Apaixonado por tecnologia
-
+•💻Desenvolvedor de Software
+•🎓Estudando Análise e Desenvolvimento de Sistemas
+•🌱Em constante aprendizado
 ☺Pronomes: Ele/dele
 
 <div align="center">
