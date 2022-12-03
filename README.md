@@ -1,6 +1,6 @@
 ## Eaai, eu sou o Solon Santos! Vem me conhecer um pouco mais...
 
-•💻Desenvolvedor de Software
+•💻Desenvolvedor Web Font-End
 •🎓Estudando Análise e Desenvolvimento de Sistemas
 •🌱Em constante aprendizado
 
