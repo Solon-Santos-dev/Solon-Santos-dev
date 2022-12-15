@@ -1,8 +1,8 @@
 ## Eaai, eu sou o Solon Santos! Vem me conhecer um pouco mais...
 
-•💻Desenvolvedor Web Frontend
-•🎓Estudando Análise e Desenvolvimento de Sistemas
-•🌱Em constante aprendizado
+### •💻Desenvolvedor Web Frontend
+### •🎓Estudando Análise e Desenvolvimento de Sistemas
+### •🌱Focando atualmente no Desenvolvimento Frontend
 
 <div align="center">
   <a href="https://github.com/solon-santos-dev">
