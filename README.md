@@ -1,27 +1,34 @@
-## Eaai, eu sou o Solon Santos! Vem me conhecer um pouco mais...
+## Olá, que bom ter você por aqui!
 
-##### •💻Desenvolvedor Web Frontend
-##### •🎓Estudando Análise e Desenvolvimento de Sistemas
-##### •🌱Fortalecendo os connhecimentos nas tecnologias do desenvolvimento web
+Meu nome é Solon Santos, sou apaixonado por tecnologia e desenovolvimento web. Há alguns meses venho <strong>empenhando esforços<strong/> nas seguintes atividades abaixo:
 
+##### •💻Desenvolvedor Web Front-End.
+##### •🎓Concluindo Análise e Desenvolvimento de Sistemas.
+##### •🌱Fortalecendo os connhecimentos nas tecnologias do desenvolvimento web, conforme listadas nas principais tecnologias abaixo.
+
+<h3>Principais Tecnologias que tenho Experiência e continuo estudando e me aperfeiçoando:<h3>
+<div style="display: inline_block">
+  <img align="center" alt="Solon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Solon-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Solon-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align= "center" alt="Solon-VisualStudioCode" height="150" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+  <img align= "center" alt="Solon-Git" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align= "center" alt="Solon-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <h3> <strong>Redes Sociais|Contato:<strong><h3>
+  <a href = "messageto:+5541992680622"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"<a/>
+  <a href = "mailto:solon.devintern@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/solon-santos-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <br>
+  <h5>Breve Histórico da minha atividade aqui no GitHub:<h5/>
 <div align="center">
   <a href="https://github.com/solon-santos-dev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=solon-santos-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solon-santos-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div
-<h3><strong>Principais Tecnologias:<strong<<h3>
-<div style="display: inline_block">
-  <img align="center" alt="Solon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Solon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Solon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
   <br>
-  <h5> <strong>Redes Sociais | Contato<strong><h5>
   
-   <a href = "mailto:solon.devintern@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/solon-santos-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_solonsantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/SjUQdxzcec" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  
+  
 
 
 
