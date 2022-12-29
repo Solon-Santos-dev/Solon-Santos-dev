@@ -5,7 +5,7 @@ Meu nome é <strong>Solon Santos</strong>, sou apaixonado por tecnologia e desen
 ##### •💻Desenvolvedor Web Front-End.
 ##### •🎓Concluindo Análise e Desenvolvimento de Sistemas.
 ##### •🌱Focando no JavaScript voltado para o Desenvolvimento Web.
-#####  •:zap:Focado, praticante de esportes, paciente.
+#####  •:zap:Determinado, praticante de esportes, paciente.
 
 ### Principais Tecnologias que tenho Experiência e continuo estudando e me aperfeiçoando:<h3>
 <div style="display: inline_block">
