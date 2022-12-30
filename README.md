@@ -8,6 +8,7 @@ Meu nome é <strong>Solon Santos</strong>, sou apaixonado por tecnologia e desen
 #####  •:zap:Determinado, praticante de esportes, paciente.
 
 ### Principais Tecnologias que tenho Experiência e continuo estudando e me aperfeiçoando:<h3>
+HTML5, CSS3, JavaScript, Git, GitHub.
 <div style="display: inline_block">
   <img align="center" alt="Solon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Solon-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
