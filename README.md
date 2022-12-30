@@ -1,6 +1,6 @@
 ## Olá, que bom ter você por aqui!
 
-Meu nome é <strong>Solon Santos</strong>, sou apaixonado por tecnologia e desenovolvimento web. Há alguns meses venho <strong>empenhando esforços</strong> nas seguintes atividades abaixo:
+Meu nome é <strong>Solon Santos</strong>, sou apaixonado por tecnologia e desenovolvimento web! Tenho facilidade em me comunicar, e conhecimentos em inglês e metologias ágeis como o Kanban. Estou sempre buscando aprender e evoluir na área, tornando o meu trabalho cada vez mais eficiente.
 
 ##### •💻Desenvolvedor Web Front-End.
 ##### •🎓Concluindo Análise e Desenvolvimento de Sistemas.
@@ -20,7 +20,7 @@ HTML5, CSS3, JavaScript, Git, GitHub.
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=solon-santos-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solon-santos-dev&layout=compact&langs_count=7&theme=tokyonight"/>
     </div>
-  <h3> <strong>Entre em contato comigo:<strong><h3>
+  <h3> <strong>Entre em contato comigo, será um prazer!<strong><h3>
   <a href="https://api.whatsapp.com/send?phone=+5541992680622&text=%20" target="_blank"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"<a/>
   <a href = "mailto:solon.devintern@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/solon-santos-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
