@@ -8,14 +8,15 @@ Meu nome é <strong>Solon Santos</strong>, sou apaixonado por tecnologia e desen
 #####  •:zap:Determinado, praticante de esportes, paciente.
 
 ### Principais Tecnologias que tenho Experiência e continuo estudando e me aperfeiçoando:<h3>
-HTML5, CSS3, JavaScript, Git, GitHub.
+HTML5, CSS3, JavaScript, Git, GitHub, Figma, Aprendendo Bootstrap.
 <div style="display: inline_block">
   <img align="center" alt="Solon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Solon-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Solon-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align= "center" alt="Solon-Git" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align= "center" alt="Solon-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  
+  <img  align= "center" alt="Solon-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align= "center" alt="Solon-GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <h3> <strong>Entre em contato comigo, será um prazer!<strong><h3>
   <a href="https://api.whatsapp.com/send?phone=+5541992680622&text=%20" target="_blank"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"<a/>
   <a href = "mailto:contato.solonsantosdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
