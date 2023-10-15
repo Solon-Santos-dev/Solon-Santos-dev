@@ -3,7 +3,7 @@
 Meu nome é <strong>Solon Santos</strong>, sou apaixonado por tecnologia e desenovolvimento web! Tenho facilidade em me comunicar, e conhecimentos em inglês e metologias ágeis como o Kanban. Estou sempre buscando aprender e evoluir na área, tornando o meu trabalho cada vez mais eficiente.
 
 ##### •💻Desenvolvedor Web 
-##### •🎓Concluindo Análise e Desenvolvimento de Sistemas.
+##### •🎓Formado em Análise e Desenvolvimento de Sistemas.
 #####  •:zap:Determinado, praticante de esportes, paciente.
 
 ### Principais Tecnologias que tenho Experiência e continuo estudando e me aperfeiçoando:<h3>
