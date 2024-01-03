@@ -3,7 +3,7 @@
 Por meio de muito estudo e desenvolvimento de projetos, continuo evoluindo meus conhecimentos em várias tecnologias: HTML5, CSS3, Javascript, Python, Git, GitHub, Figma, Bootstrap, MySQL/NoSQL. Assim como possuo sólido conhecimento em lógica de programação, algoritmos e estrutura de dados. Vivência em metodologias ágeis como o Scrum e o KanBan, com total disposição e desejo de aprender.
 
 ##### •💻Desenvolvedor Web 
-##### •🎓Formado em Análise e Desenvolvimento de Sistemas, certificado em Web e Computer Programming. Bacharelado em Software Development pela BYU-Idaho.
+##### •🎓Bacharelado em Software Development pela BYU-Idaho, certificado em Web and Computer Programming, formado em Análise e Desenvolvimento de Sistemas.
 #####  • :runner:Determinado, praticante de esportes, paciente.
 
 ### Principais Tecnologias que tenho Experiência e continuo estudando e me aperfeiçoando:<h3>
